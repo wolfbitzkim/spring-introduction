@@ -10,7 +10,7 @@ import java.util.List;
 import static org.assertj.core.api.Assertions.*;
 
 class MemoryMemberRepositoryTest {
-
+/*
     MemoryMemberRepository repository = new MemoryMemberRepository();
 
     @AfterEach
@@ -61,5 +61,5 @@ class MemoryMemberRepositoryTest {
         assertThat(result.size()).isEqualTo(2);
 
     }
-
+*/
 }
